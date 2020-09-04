@@ -1,5 +1,5 @@
 {
-  "name": "ami.js",
+  "name": "@scanlabmr/ami.js",
   "version": "0.32.0",
   "main": "build/ami.js",
   "keywords": [
